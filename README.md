@@ -1,4 +1,4 @@
-# Hospital Management System
+# Clinic Management System
 
 #### In this project, we are developing a website for hospital management system using django. Through this system hospital can manage 
 * Patients
